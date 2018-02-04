@@ -1,0 +1,29 @@
+{
+  "name": "hacktamu",
+  "version": "1.0.0",
+  "description": "GIS app with esri api",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hackattackteam/hacktamu.git"
+  },
+  "keywords": [
+    "GIS",
+    "app"
+  ],
+  "author": "tsuhackteam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hackattackteam/hacktamu/issues"
+  },
+  "homepage": "https://github.com/hackattackteam/hacktamu#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "multer": "^1.3.0"
+  }
+}
